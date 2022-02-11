@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Perkenalkan nama saya **Aulil Mushalli**.\
+
+Saya seorang **Junior Fron-End** di [UMSU](https://umsu.ac.id/).\
+
+Saya juga memiliki  [Website](https://aulil.my.id/).\
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Website](https://aulil.my.id/) ku ya.
+
