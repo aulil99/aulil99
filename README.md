@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 Perkenalkan nama saya **Aulil Mushalli**.
 
-Saya seorang **Junior Fron-End** di [UMSU](https://umsu.ac.id/).
+Saya seorang **Junior Programmer** di [UMSU](https://umsu.ac.id/).
 
-Saya juga memiliki  [Website](https://aulil.my.id/).
+Saya juga memiliki  [Website]([https://aulil.m](https://uptweb.umsu.ac.id/aulil-mushalli/)).
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Website](https://aulil.my.id/) ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Website]([https://aulil.my.id/](https://uptweb.umsu.ac.id/aulil-mushalli/)) ku ya.
 
 <p align="left">
 <a href="https://github.com/aulil99">
