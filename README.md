@@ -22,7 +22,7 @@ Saya seorang **Junior Programmer** di [UMSU](https://umsu.ac.id/).
 
 Saya juga memiliki  [Website](https://uptweb.umsu.ac.id/aulil-mushalli/).
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Website](https://uptweb.umsu.ac.id/aulil-mushalli/)) ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Website](https://uptweb.umsu.ac.id/aulil-mushalli/) ku ya.
 
 <p align="left">
 <a href="https://github.com/aulil99">
